@@ -18,7 +18,7 @@ gem 'tinder', '~> 1.4'
 gem 'hipchat-api'
 
 # service :libratometrics
-gem 'librato-metrics', '~> 1.0.1', :require => "librato/metrics"
+gem 'librato-metrics', '~> 0.5.0', :require => "librato/metrics"
 
 group :development do
   gem 'foreman'
